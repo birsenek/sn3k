@@ -1,0 +1,5 @@
+C:\Users\Birsenek\Desktop\Sn3k\Snek.exe
+C:\Users\Birsenek\Desktop\Sn3k\Snek.dll
+C:\Users\Birsenek\Desktop\Sn3k\Snek.deps.json
+C:\Users\Birsenek\Desktop\Sn3k\Snek.runtimeconfig.json
+C:\Users\Birsenek\Desktop\Sn3k\Snek.pdb
